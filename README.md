@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Abdullah Niaz! 👋
 
-<!--
-**f-e7/f-e7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 Aspiring Computer Scientist & Engineer
+- 🚀 Passionate about Engineering & Technological Sciences
+- 💻 Currently building projects using C, Python, Java, and SQL
+- 🏋️‍♂️ Interested in fitness, sports, and continuous learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** C, Python, Java, SQL, HTML/CSS
+- **Tools & Platforms:** Git, GitHub, VS Code, Linux
+
+---
+
+### 📫 Connect with Me
+- **Email:** abniaz2009@gmail.com
