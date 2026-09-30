@@ -1,0 +1,38 @@
+<!-- trivia/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Trivia!</title>
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <div class="header">
+        <h1>Trivia Game</h1>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <h2>What is the capital of France?</h2>
+            <button class="incorrect">London</button>
+            <button class="correct">Paris</button>
+            <button class="incorrect">Berlin</button>
+            <p id="feedback1"></p>
+        </div>
+    </div>
+
+    <script>
+        document.querySelector('.correct').addEventListener('click', function() {
+            this.style.backgroundColor = 'green';
+            document.querySelector('#feedback1').textContent = 'Correct!';
+        });
+
+        document.querySelectorAll('.incorrect').forEach(button => {
+            button.addEventListener('click', function() {
+                this.style.backgroundColor = 'red';
+                document.querySelector('#feedback1').textContent = 'Incorrect';
+            });
+        });
+    </script>
+</body>
+</html>

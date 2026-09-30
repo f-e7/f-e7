@@ -1,0 +1,6 @@
+This website is a personal portfolio created using HTML, CSS, and Bootstrap.
+It consists of three pages:
+1. index.html: The home page introducing the website with an interactive JavaScript button.
+2. about.html: A page describing my background and what I am learning in computer science.
+3. contact.html: A page providing ways to reach out.
+The site uses Bootstrap for a responsive layout and includes custom styling in styles.css.
