@@ -39,3 +39,7 @@ Here are the core projects and assignments I completed during Harvard University
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=f-e7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
+---
+
+### 📫 Connect with Me
+- *Email:* abniaz2009@gmail.com
