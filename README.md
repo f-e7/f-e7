@@ -10,7 +10,10 @@
 * 🛠️ Currently building projects using C, Python, Java, and SQL
 * 🏋️‍♂️ Interested in fitness, sports, and continuous learning
 
+
+
 ---
+
 
 ### 🗂️ Harvard CS50x Portfolio & Projects
 Here are the core projects and assignments I completed during Harvard University's **CS50x** course, showcasing my skills in C, Python, SQL, and algorithm design:
